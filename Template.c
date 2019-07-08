@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-   // printf() displays
+   // printf() assist
    printf("Hello, Wo
    return 0;
 }
